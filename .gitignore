@@ -1,0 +1,4 @@
+*.log
+*.iml
+.DS_Store
+temp/
